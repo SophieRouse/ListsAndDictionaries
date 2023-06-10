@@ -1,5 +1,5 @@
 # Lists And Dictionaries
-Task completed on Dictionaries and lists for the HyperionDev Software Engineering Bootcamp
+Python task completed on Dictionaries and lists for the HyperionDev Software Engineering Bootcamp
 
 This project uses lists and dictionaries to calculate the total amount of money the cafe could earn from their stock levels.
 A list is used to show all of the items on a cafe's menu. The first dictionary is used to show how many of each item the cafe has in stock.
